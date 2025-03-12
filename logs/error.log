@@ -1,0 +1,9 @@
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T15:18:36.768Z"}
+{"level":"error","message":"Simulated error - Request from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:04.916Z"}
+{"level":"error","message":"Simulated error - Request from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:11.097Z"}
+{"level":"error","message":"Simulated error - Request from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:12.320Z"}
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T21:36:36.136Z"}
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T21:36:39.372Z"}
+{"level":"error","message":"Simulated error - Request from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:37:52.305Z"}
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T21:39:03.351Z"}
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T21:39:06.425Z"}

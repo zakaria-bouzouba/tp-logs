@@ -1,0 +1,30 @@
+{"level":"info","message":"Request received: POST /login - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T15:18:36.764Z"}
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T15:18:36.768Z"}
+{"level":"info","message":"Request received: GET /error - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:04.912Z"}
+{"level":"error","message":"Simulated error - Request from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:04.916Z"}
+{"level":"info","message":"Request received: GET /error - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:11.096Z"}
+{"level":"error","message":"Simulated error - Request from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:11.097Z"}
+{"level":"info","message":"Request received: GET /error - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:12.319Z"}
+{"level":"error","message":"Simulated error - Request from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:12.320Z"}
+{"level":"info","message":"Request received: GET / - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:17.072Z"}
+{"level":"info","message":"Access to the main page from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:17.073Z"}
+{"level":"info","message":"Request received: GET / - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:18.359Z"}
+{"level":"info","message":"Access to the main page from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:18.360Z"}
+{"level":"info","message":"Request received: GET / - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:19.603Z"}
+{"level":"info","message":"Access to the main page from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:19.604Z"}
+{"level":"info","message":"Request received: GET / - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:20.662Z"}
+{"level":"info","message":"Access to the main page from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:20.663Z"}
+{"level":"info","message":"Request received: POST /login - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:36.135Z"}
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T21:36:36.136Z"}
+{"level":"info","message":"Request received: POST /login - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:39.371Z"}
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T21:36:39.372Z"}
+{"level":"info","message":"Request received: GET / - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:50.445Z"}
+{"level":"info","message":"Access to the main page from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:50.446Z"}
+{"level":"info","message":"Request received: GET / - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:56.742Z"}
+{"level":"info","message":"Access to the main page from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:36:56.743Z"}
+{"level":"info","message":"Request received: GET /error - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:37:52.303Z"}
+{"level":"error","message":"Simulated error - Request from ::ffff:127.0.0.1","timestamp":"2025-03-12T21:37:52.305Z"}
+{"level":"info","message":"Request received: POST /login - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:39:03.350Z"}
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T21:39:03.351Z"}
+{"level":"info","message":"Request received: POST /login - IP: ::ffff:127.0.0.1","timestamp":"2025-03-12T21:39:06.424Z"}
+{"level":"error","message":"Failed login attempt: email=b@gmail.com, password=*****","timestamp":"2025-03-12T21:39:06.425Z"}
