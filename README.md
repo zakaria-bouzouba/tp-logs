@@ -149,7 +149,7 @@ Des tests ont été réalisés avec **Thunder Client** pour vérifier les répon
 - Log enregistré dans `combined.log`
 
 📸 _Capture d'écran du test GET `/` :_  
-![GET '/'](screenshots\get.png)
+![GET '/'](screenshots/get.png)
 
 ❌ **Requête POST `/login` avec des identifiants erronés** :
 
@@ -157,7 +157,7 @@ Des tests ont été réalisés avec **Thunder Client** pour vérifier les répon
 - Log d'erreur enregistré dans `error.log`
 
 📸 _Capture d'écran du test POST `/login` :_  
-![POST '/login'](screenshots\post_login.png)
+![POST '/login'](screenshots/post_login.png)
 
 ⚠️ **Requête GET `/error`** :
 
@@ -165,7 +165,7 @@ Des tests ont été réalisés avec **Thunder Client** pour vérifier les répon
 - Log d'erreur enregistré
 
 📸 _Capture d'écran du test GET `/error` :_  
-![GET '/error'](screenshots\get_error.png)
+![GET '/error'](screenshots/get_error.png)
 
 ---
 
