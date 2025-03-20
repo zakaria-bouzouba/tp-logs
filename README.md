@@ -133,8 +133,8 @@ app.use((err, req, res, next) => {
 ## 📝 Fichier `.env`
 
 ```
-SERVER_PORT=3000
-DB_URL=mongodb://localhost:27017/monApplication
+DB_URL="mongodb://localhost:27017/db_logs"
+SERVER_PORT=5000
 ```
 
 ---
